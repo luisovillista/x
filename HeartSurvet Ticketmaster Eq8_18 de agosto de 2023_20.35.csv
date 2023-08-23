@@ -1,0 +1,394 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q7,Q2_1,Q1_1,Q3_1,Q4_1,Q5_1,Q5_2,Q6_1
+Fecha de inicio,Fecha de finalización,Tipo de respuesta,Dirección IP,Progreso,Duración (en segundos),Finalizado,Fecha registrada,ID de respuesta,Apellido del destinatario,Nombre del destinatario,Correo electrónico del destinatario,Referencia a datos externos,Latitud de la ubicación,Longitud de la ubicación,Canal de la distribución,Idioma del usuario,"En la siguiente encuesta se mostraran preguntas sobre una nueva funcionalidad de ticketmaster. Esta función te permitirá ingresar tus datos biométricos a la aplicación para ingresar más rápido al sitio, comprar de manera segura y autenticarte el día del evento para un ingreso rápido y sin riesgo de fraude. Utiliza el siguiente link para ir al prototipo https://marvelapp.com/prototype/8b3b6e9",¿Cuál fue tu primera impresión de esta nueva funcionalidad? Siendo 0 muy mala impresión y 10 muy buena impresión. - Evalua tu primera impresión,Califica el nuevo proceso de autenticación y seguridad. ¿Qué tan facil fue el proceso de alta y uso de los datos biometricos? Siendo 0 muy dificl y 10 muy facil. - Cumple con mis expectativas de facilidad,¿Qué tanta confianza tendrías hacia Ticketmaster respecto al ingreso de tus datos biométricos? Siendo 0 muy poca confianza y 10 plena confianza. - Nivel de confianza,¿Cuán probable es que recomiendes el nuevo proceso de autenticación y seguridad de Ticketmaster a un amigo o conocido? Siendo 0 muy poco probable y 10 altamente probable. - Mi nivel de recomendació,¿En qué medida sentiste que el nuevo proceso de autenticación y seguridad facilitaría la obtención de tus boletos y el acceso al evento? Siendo 0 una muy baja facilidad y 10 mucha facilidad - Facilidad de obtener boletos,¿En qué medida sentiste que el nuevo proceso de autenticación y seguridad facilitaría la obtención de tus boletos y el acceso al evento? Siendo 0 una muy baja facilidad y 10 mucha facilidad - Facilidad de acceso al evento,¿Qué tanta seguridad sientes con este nuevo proceso para evitar  la clonación y reventa de los tickets? Siendo 0 mucha inseguridad y 10 mucha seguridad - Nivel de seguridad percibido
+"{""ImportId"":""startDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""endDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID5_2""}","{""ImportId"":""QID6_1""}"
+2023-08-17 21:49:49,2023-08-17 21:52:12,IP Address,201.110.254.95,100,143,True,2023-08-17 21:52:13,R_qx91QBXUu09j0kN,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 21:49:48,2023-08-17 21:52:35,IP Address,189.217.197.210,100,166,True,2023-08-17 21:52:35,R_2dXF6wWYope2R7L,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 21:52:24,2023-08-17 21:56:39,IP Address,189.217.197.210,100,255,True,2023-08-17 21:56:40,R_PGO0Wja9H7sJJ8B,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,5,9,9,8,8,8,8
+2023-08-17 22:01:41,2023-08-17 22:02:21,IP Address,177.228.116.226,100,40,True,2023-08-17 22:02:22,R_PXIAtnqT7BmoLHr,,,,,24.6567,-107.1748,anonymous,ES,¡De acuerdo!,3,9,2,2,5,7,4
+2023-08-17 22:02:48,2023-08-17 22:03:41,IP Address,189.130.167.94,100,52,True,2023-08-17 22:03:41,R_1NmoKfPmXROvSbU,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,5,10,3,5,4,2,
+2023-08-17 22:02:34,2023-08-17 22:03:47,IP Address,187.140.60.242,100,72,True,2023-08-17 22:03:47,R_pH0Sfi2xDT44oUh,,,,,20.5276,-100.8105,anonymous,ES,,5,5,2,,3,2,5
+2023-08-17 22:04:16,2023-08-17 22:04:37,IP Address,189.130.167.94,100,21,True,2023-08-17 22:04:38,R_3FJ7mXByKfZYFO4,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,10,10,6,6,7,5,3
+2023-08-17 22:04:43,2023-08-17 22:04:59,IP Address,189.130.167.94,100,16,True,2023-08-17 22:05:00,R_1n6glOb6oBtjtYz,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,5,6,5,6,4,5,4
+2023-08-17 22:05:53,2023-08-17 22:06:13,IP Address,189.130.167.94,100,19,True,2023-08-17 22:06:13,R_25ZOWRxlVykODwa,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,5,5,9,,3,1,7
+2023-08-17 22:06:19,2023-08-17 22:06:34,IP Address,189.130.167.94,100,15,True,2023-08-17 22:06:35,R_1BNn8D4xzoj0MSZ,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,4,9,7,5,4,4,9
+2023-08-17 22:06:38,2023-08-17 22:06:57,IP Address,189.130.167.94,100,18,True,2023-08-17 22:06:57,R_2VPU10FktkOBoCN,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,7,4,3,7,3,5,8
+2023-08-17 22:07:07,2023-08-17 22:08:50,IP Address,189.130.167.94,100,102,True,2023-08-17 22:08:50,R_1QDFpNC0B1IhfdD,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,7,4,3,4,5,5,2
+2023-08-17 22:08:02,2023-08-17 22:08:51,IP Address,200.68.167.97,100,49,True,2023-08-17 22:08:52,R_22kTJzvthdgi7Kp,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:08:53,2023-08-17 22:09:09,IP Address,189.130.167.94,100,16,True,2023-08-17 22:09:10,R_3sJr7x7nfPJgBUJ,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,6,6,8,2,10,3,6
+2023-08-17 22:09:14,2023-08-17 22:09:28,IP Address,189.130.167.94,100,14,True,2023-08-17 22:09:28,R_2PAQajavz3ZkO6x,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,9,8,4,5,4,2,8
+2023-08-17 22:09:32,2023-08-17 22:09:49,IP Address,189.130.167.94,100,17,True,2023-08-17 22:09:49,R_2cthfC4j4HpylWX,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,2,1,1,1,2,1,1
+2023-08-17 22:02:56,2023-08-17 22:10:55,IP Address,172.56.120.166,100,478,True,2023-08-17 22:10:55,R_4O3PxhCfW1Czys9,,,,,34.0544,-118.2441,anonymous,ES,,10,10,9,9,9,10,9
+2023-08-17 22:11:44,2023-08-17 22:12:02,IP Address,201.110.254.95,100,18,True,2023-08-17 22:12:02,R_qEr7XFJ2jKxznG1,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,10,6,10,6,8,6
+2023-08-17 22:12:04,2023-08-17 22:12:19,IP Address,201.110.254.95,100,14,True,2023-08-17 22:12:19,R_yw1zcmN68ZK4wbT,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,9,7,8,10,8,7,9
+2023-08-17 22:12:23,2023-08-17 22:12:38,IP Address,201.110.254.95,100,14,True,2023-08-17 22:12:38,R_2zwfBfHhF2QM0L5,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,5,5,4,7,4,4,6
+2023-08-17 22:12:02,2023-08-17 22:12:49,Spam,200.68.167.97,100,46,True,2023-08-17 22:12:49,R_2ZOX8JslCmPNRfv,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:12:40,2023-08-17 22:12:56,IP Address,201.110.254.95,100,16,True,2023-08-17 22:12:56,R_3egaLDCPedu8uys,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,1,2,1,7,4,4,6
+2023-08-17 22:12:19,2023-08-17 22:13:17,IP Address,191.95.46.70,100,57,True,2023-08-17 22:13:17,R_3mjynKTPzXnhn2f,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:13:10,2023-08-17 22:13:46,IP Address,200.68.167.97,100,36,True,2023-08-17 22:13:47,R_1QLVDD4UDgRonTB,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,7,6,10,6,6,10,10
+2023-08-17 22:14:57,2023-08-17 22:15:08,IP Address,189.130.167.94,100,11,True,2023-08-17 22:15:08,R_26kVlWiCnUhzrkT,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,,8,,,,,
+2023-08-17 22:12:59,2023-08-17 22:15:24,IP Address,201.110.254.95,100,145,True,2023-08-17 22:15:25,R_3NTY2TGFCSMV84n,,,,,19.4755,-99.2289,anonymous,ES,,9,7,6,4,5,5,6
+2023-08-17 22:15:10,2023-08-17 22:15:29,IP Address,189.130.167.94,100,18,True,2023-08-17 22:15:29,R_1dKsv6ZOscQIPzO,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,9,3,5,6,7,4,4
+2023-08-17 22:15:26,2023-08-17 22:15:41,IP Address,201.110.254.95,100,14,True,2023-08-17 22:15:41,R_w5n8Rpdqf1pZVGF,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,7,6,5,7,8,8,6
+2023-08-17 22:15:32,2023-08-17 22:15:50,IP Address,189.130.167.94,100,17,True,2023-08-17 22:15:51,R_3lFzhHG2CFbCe76,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,8,3,7,8,9,4,10
+2023-08-17 22:15:44,2023-08-17 22:15:58,IP Address,201.110.254.95,100,14,True,2023-08-17 22:15:59,R_29nUFkz3BlZ6H8W,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,7,7,6,5,7,8,9
+2023-08-17 22:16:00,2023-08-17 22:16:11,Spam,201.110.254.95,100,10,True,2023-08-17 22:16:12,R_1MMrxJ4gwBmxuea,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:15:54,2023-08-17 22:16:14,IP Address,189.130.167.94,100,20,True,2023-08-17 22:16:14,R_3kLpckhn9qbHMi5,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,9,2,7,2,9,2,8
+2023-08-17 22:16:18,2023-08-17 22:16:33,IP Address,189.130.167.94,100,14,True,2023-08-17 22:16:34,R_3qlIonCwODESrMH,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,8,4,7,6,3,1,7
+2023-08-17 22:16:32,2023-08-17 22:16:46,IP Address,201.110.254.95,100,14,True,2023-08-17 22:16:47,R_yrnbMRqVtxace5P,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,9,9,8,7,10,10,10
+2023-08-17 22:16:36,2023-08-17 22:17:03,IP Address,189.130.167.94,100,27,True,2023-08-17 22:17:04,R_3QXAlN4oh5P91SE,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,5,0,10,7,6,2,10
+2023-08-17 22:17:26,2023-08-17 22:17:42,IP Address,189.130.167.94,100,15,True,2023-08-17 22:17:42,R_vGhhJ8p21oriagp,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,,,,,,,
+2023-08-17 22:17:11,2023-08-17 22:17:53,Spam,201.110.254.95,100,41,True,2023-08-17 22:17:54,R_2t5y0XV02rprjyC,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:17:45,2023-08-17 22:18:03,IP Address,189.130.167.94,100,17,True,2023-08-17 22:18:03,R_x3OhmnQZkMWTbwJ,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,9,2,8,4,,6,7
+2023-08-17 22:18:01,2023-08-17 22:18:17,IP Address,201.110.254.95,100,15,True,2023-08-17 22:18:17,R_1Nko3NVXf066gZ7,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,9,10,10,8,9,9,10
+2023-08-17 22:18:06,2023-08-17 22:18:21,IP Address,189.130.167.94,100,14,True,2023-08-17 22:18:21,R_2tDJWvAsSM39O8A,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,6,1,3,8,3,7,4
+2023-08-17 22:18:24,2023-08-17 22:18:45,IP Address,189.130.167.94,100,21,True,2023-08-17 22:18:46,R_1pKiggUab0v0Ck3,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,3,2,2,3,,3,4
+2023-08-17 22:18:44,2023-08-17 22:18:55,IP Address,201.110.254.95,100,11,True,2023-08-17 22:18:55,R_3386e9pI3alZJjL,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,6,5,8,5,8,9,10
+2023-08-17 22:18:48,2023-08-17 22:19:14,IP Address,189.130.167.94,100,25,True,2023-08-17 22:19:14,R_2wEOvelunagdez6,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,,3,6,5,1,7,0
+2023-08-17 22:19:20,2023-08-17 22:19:47,IP Address,189.130.167.94,100,26,True,2023-08-17 22:19:48,R_122N8eFQlJDX0bw,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,6,3,6,5,3,7,8
+2023-08-17 22:19:50,2023-08-17 22:20:14,IP Address,189.130.167.94,100,23,True,2023-08-17 22:20:14,R_2EcbB51OZsg2LyV,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,7,4,7,7,,5,8
+2023-08-17 22:20:19,2023-08-17 22:20:44,IP Address,189.130.167.94,100,24,True,2023-08-17 22:20:44,R_31saef0WogO7KBW,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,7,5,3,9,8,4,8
+2023-08-17 22:20:47,2023-08-17 22:21:28,IP Address,189.130.167.94,100,41,True,2023-08-17 22:21:28,R_3QK15z2CXto7tDn,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,8,5,8,6,6,3,9
+2023-08-17 22:21:34,2023-08-17 22:21:46,IP Address,201.110.254.95,100,12,True,2023-08-17 22:21:46,R_zZ6aBLS5AbQLi1j,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,10,7,,8,8,10
+2023-08-17 22:21:51,2023-08-17 22:22:03,Spam,201.110.254.95,100,11,True,2023-08-17 22:22:03,R_87H235VosnWK5gZ,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:21:39,2023-08-17 22:22:23,IP Address,189.130.167.94,100,44,True,2023-08-17 22:22:23,R_1eyERKTAISyHIEd,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,7,6,7,9,4,6,7
+2023-08-17 22:22:33,2023-08-17 22:22:54,IP Address,189.130.167.94,100,21,True,2023-08-17 22:22:55,R_3MPw8MtwAiY2gAS,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,9,5,7,8,6,4,2
+2023-08-17 22:22:08,2023-08-17 22:23:02,IP Address,201.110.254.95,100,53,True,2023-08-17 22:23:03,R_2CfipvGY7GAWKsK,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,5,5,9,10,10,10,10
+2023-08-17 22:22:58,2023-08-17 22:23:17,IP Address,189.130.167.94,100,19,True,2023-08-17 22:23:18,R_2PgM16Wazqac4LG,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,5,10,9,9,3,6,8
+2023-08-17 22:23:07,2023-08-17 22:23:21,IP Address,201.110.254.95,100,14,True,2023-08-17 22:23:22,R_rkaFhm1qB2Y7bwd,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,6,6,7,7,7,9,10
+2023-08-17 22:23:23,2023-08-17 22:23:34,Spam,189.130.167.94,100,10,True,2023-08-17 22:23:34,R_1HiPs3DvrZ9I1cZ,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,,,,,,,
+2023-08-17 22:23:26,2023-08-17 22:23:37,IP Address,201.110.254.95,100,11,True,2023-08-17 22:23:38,R_1dbns7GcfniHVsF,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,9,10,9,8,8,7,8
+2023-08-17 22:23:51,2023-08-17 22:24:08,IP Address,189.130.167.94,100,16,True,2023-08-17 22:24:09,R_Uin9GJF6FYkqeJP,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,8,5,5,7,5,2,7
+2023-08-17 22:24:12,2023-08-17 22:24:26,IP Address,189.130.167.94,100,14,True,2023-08-17 22:24:27,R_xfuyLD50jXnGQKd,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,6,2,5,4,5,4,3
+2023-08-17 22:24:30,2023-08-17 22:24:44,IP Address,189.130.167.94,100,13,True,2023-08-17 22:24:45,R_SDUzF5mlOYyM1yx,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,5,2,5,4,4,4,7
+2023-08-17 22:24:51,2023-08-17 22:25:03,IP Address,189.130.167.94,100,12,True,2023-08-17 22:25:03,R_2cvnlvgc25GniTY,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,,,6,2,,,
+2023-08-17 22:23:43,2023-08-17 22:25:16,IP Address,201.110.254.95,100,93,True,2023-08-17 22:25:17,R_2VaT5CPgyUdbzO7,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,9,7,9,9,9,10,8
+2023-08-17 22:25:05,2023-08-17 22:25:19,IP Address,189.130.167.94,100,13,True,2023-08-17 22:25:19,R_bC0T9kZCCkS3CYp,,,,,19.3907,-99.1001,anonymous,ES,¡De acuerdo!,9,5,4,4,3,5,6
+2023-08-17 22:25:22,2023-08-17 22:25:34,IP Address,201.110.254.95,100,12,True,2023-08-17 22:25:34,R_bwoXpSGf8Gtk6gp,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,7,9,9,9,9,9,9
+2023-08-17 22:25:28,2023-08-17 22:26:09,IP Address,189.217.197.210,100,40,True,2023-08-17 22:26:09,R_2qgxrs76jAw620z,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,9,9,8,9,10,10,9
+2023-08-17 22:25:40,2023-08-17 22:27:10,IP Address,201.110.254.95,100,90,True,2023-08-17 22:27:10,R_1lyIqf7izFXzXFO,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,10,8,8,8,10,10,9
+2023-08-17 22:26:42,2023-08-17 22:27:10,IP Address,191.95.46.70,100,28,True,2023-08-17 22:27:11,R_1rJR3BFsE8IIgWb,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,10,10,10,10,9,8
+2023-08-17 22:26:36,2023-08-17 22:27:22,IP Address,200.68.167.97,100,45,True,2023-08-17 22:27:22,R_1ifA8e5YCqRlERf,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-17 22:27:15,2023-08-17 22:27:27,IP Address,201.110.254.95,100,11,True,2023-08-17 22:27:28,R_3Mtfyaj70S46AYh,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,8,8,8,8,8,8
+2023-08-17 22:26:12,2023-08-17 22:27:35,IP Address,189.217.197.210,100,82,True,2023-08-17 22:27:35,R_40LxZaI5cuqR6zT,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,8,8,8,8,8,8,8
+2023-08-17 22:27:14,2023-08-17 22:27:41,Spam,191.95.46.70,100,26,True,2023-08-17 22:27:41,R_3Delm3c3dCW0CbE,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:27:43,2023-08-17 22:28:00,IP Address,191.95.46.70,100,17,True,2023-08-17 22:28:01,R_9ZXZ2TQ3HILvZo5,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,8,7,10,10,9,8
+2023-08-17 22:27:39,2023-08-17 22:28:11,IP Address,189.217.197.210,100,32,True,2023-08-17 22:28:11,R_1DUo9VanqDCAoye,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,7,9,8,9,8,9,8
+2023-08-17 22:28:02,2023-08-17 22:28:18,IP Address,191.95.46.70,100,15,True,2023-08-17 22:28:18,R_CmNbjfnb5F47k6l,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,7,10,9,9,10,10,10
+2023-08-17 22:28:19,2023-08-17 22:28:34,IP Address,191.95.46.70,100,14,True,2023-08-17 22:28:34,R_3PIaXbLmH0v9vuj,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,8,10,10,9,10,9
+2023-08-17 22:28:14,2023-08-17 22:28:34,IP Address,189.217.197.210,100,19,True,2023-08-17 22:28:34,R_3itbEAB7eLiJq4Z,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:28:36,2023-08-17 22:28:48,Spam,191.95.46.70,100,12,True,2023-08-17 22:28:49,R_RaePHiFxngY1G3D,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:28:49,2023-08-17 22:29:05,IP Address,191.95.46.70,100,15,True,2023-08-17 22:29:06,R_1eLZGlAhfycB2Hx,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,7,9,9,10,8,9
+2023-08-17 22:29:07,2023-08-17 22:29:24,IP Address,191.95.46.70,100,17,True,2023-08-17 22:29:25,R_WAkXe5k931a9lE5,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,9,8,10,8,9,8
+2023-08-17 22:29:28,2023-08-17 22:29:55,IP Address,191.95.46.70,100,26,True,2023-08-17 22:29:55,R_bkhVlPLlVTJTtJL,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,9,8,9,10,8,10
+2023-08-17 22:29:57,2023-08-17 22:30:11,IP Address,191.95.46.70,100,14,True,2023-08-17 22:30:11,R_2V4jX3KAEMzyeYW,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,9,10,9,8,8,9
+2023-08-17 22:27:32,2023-08-17 22:30:23,IP Address,201.110.254.95,100,171,True,2023-08-17 22:30:24,R_3RrWLoNLYL5UyWk,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,8,8,8,8,8,9
+2023-08-17 22:30:13,2023-08-17 22:30:25,IP Address,191.95.46.70,100,12,True,2023-08-17 22:30:26,R_3iwefr30haK8B1b,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,10,9,9,9,10,10
+2023-08-17 22:30:26,2023-08-17 22:30:39,IP Address,191.95.46.70,100,12,True,2023-08-17 22:30:40,R_QacE5lTNM5Z6BCV,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,9,10,8,9,9,10
+2023-08-17 22:30:29,2023-08-17 22:30:44,IP Address,201.110.254.95,100,15,True,2023-08-17 22:30:45,R_yC2qcPx0IJjgNUt,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,4,4,6,3,5,3,6
+2023-08-17 22:30:40,2023-08-17 22:30:55,IP Address,191.95.46.70,100,14,True,2023-08-17 22:30:56,R_Zw3r0H6eGyBKp45,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,8,9,7,10,10,10,10
+2023-08-17 22:30:51,2023-08-17 22:31:05,IP Address,201.110.254.95,100,13,True,2023-08-17 22:31:05,R_12DV4godAEiZj0L,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,7,5,5,8,9,8,8
+2023-08-17 22:30:56,2023-08-17 22:31:10,Spam,191.95.46.70,100,13,True,2023-08-17 22:31:10,R_1qgm5wyFwpsqk9r,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:31:12,2023-08-17 22:31:23,IP Address,201.110.254.95,100,10,True,2023-08-17 22:31:23,R_psEIFIABoulyTHX,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-17 22:31:30,2023-08-17 22:31:44,IP Address,201.110.254.95,100,13,True,2023-08-17 22:31:44,R_1QaaVIoQw3ocEND,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,8,7,7,8,9,6
+2023-08-17 22:31:49,2023-08-17 22:32:00,IP Address,201.110.254.95,100,11,True,2023-08-17 22:32:01,R_3emkII5G1GIY0bS,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,7,7,7,7,6,7
+2023-08-17 22:32:05,2023-08-17 22:32:15,IP Address,201.110.254.95,100,9,True,2023-08-17 22:32:15,R_x9tABzdBTk198MV,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,7,7,7,7,7,6
+2023-08-17 22:31:50,2023-08-17 22:32:19,IP Address,200.68.167.97,100,29,True,2023-08-17 22:32:20,R_W1osUNYvPdJwI9P,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,8,10,10,10,9,9,10
+2023-08-17 22:32:28,2023-08-17 22:32:47,IP Address,201.110.254.95,100,18,True,2023-08-17 22:32:47,R_1oALjDx6VtcUNCE,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,7,9,7,6,9,7,8
+2023-08-17 22:32:24,2023-08-17 22:32:57,IP Address,200.68.167.97,100,33,True,2023-08-17 22:32:58,R_TsYu4uA3oZg9c77,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,10,9,9
+2023-08-17 22:32:52,2023-08-17 22:33:14,IP Address,201.110.254.95,100,22,True,2023-08-17 22:33:14,R_31GCEMyVV9AC3qa,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,8,9,8,10,10,10,10
+2023-08-17 22:33:22,2023-08-17 22:33:38,IP Address,201.110.254.95,100,15,True,2023-08-17 22:33:39,R_1GDBYK2bB1mHEOy,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,7,8,9,7,8,7,8
+2023-08-17 22:33:44,2023-08-17 22:33:55,Spam,201.110.254.95,100,10,True,2023-08-17 22:33:55,R_SUiu3IxWTS7pRkJ,,,,,19.4755,-99.2289,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:33:46,2023-08-17 22:34:09,IP Address,200.68.167.97,100,22,True,2023-08-17 22:34:09,R_1Qbl2qw4Thq3CiE,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,9
+2023-08-17 22:34:13,2023-08-17 22:34:34,IP Address,200.68.167.97,100,20,True,2023-08-17 22:34:34,R_1ieuZgr89vaujNP,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,9,10,10,10,9,9
+2023-08-17 22:34:38,2023-08-17 22:34:56,IP Address,200.68.167.97,100,18,True,2023-08-17 22:34:57,R_2TI8Ldcb7WzD69m,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,10,10,10,9,9
+2023-08-17 22:35:03,2023-08-17 22:35:21,IP Address,200.68.167.97,100,17,True,2023-08-17 22:35:21,R_3O6zlgP6LHejEKq,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,8,9,9,10,9
+2023-08-17 22:35:25,2023-08-17 22:35:45,IP Address,200.68.167.97,100,19,True,2023-08-17 22:35:45,R_1Pc0n61zfgtS4eK,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,8,9,10,10,9,10,10
+2023-08-17 22:35:50,2023-08-17 22:36:09,IP Address,200.68.167.97,100,19,True,2023-08-17 22:36:10,R_1cSucO2oR9Zbgg8,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,8,10,8,9,10,10,10
+2023-08-17 22:36:13,2023-08-17 22:36:28,IP Address,200.68.167.97,100,14,True,2023-08-17 22:36:28,R_2dXYhHd9wdo74wa,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,9,9,10,9
+2023-08-17 22:36:31,2023-08-17 22:36:48,IP Address,200.68.167.97,100,16,True,2023-08-17 22:36:48,R_3hmdPYslQK16xQ4,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,10,9,10,9,10
+2023-08-17 22:36:52,2023-08-17 22:37:06,IP Address,200.68.167.97,100,14,True,2023-08-17 22:37:06,R_4TOIFUhUGkZ3lD3,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,9,10,9,9
+2023-08-17 22:37:11,2023-08-17 22:37:24,IP Address,200.68.167.97,100,13,True,2023-08-17 22:37:25,R_1PRkGzc0QeofJ7y,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,10,10,10,10,9
+2023-08-17 22:37:29,2023-08-17 22:37:43,IP Address,200.68.167.97,100,14,True,2023-08-17 22:37:43,R_1DGtFe2D73NYAUk,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,8,10,9,10,10
+2023-08-17 22:36:41,2023-08-17 22:38:00,IP Address,187.190.141.249,100,79,True,2023-08-17 22:38:01,R_1nUuH9g8xXjT3Jr,,,,,25.527,-103.3547,anonymous,ES,¡De acuerdo!,5,3,,,7,7,4
+2023-08-17 22:37:48,2023-08-17 22:38:02,IP Address,200.68.167.97,100,13,True,2023-08-17 22:38:02,R_3dFxOd282dHGWm5,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,9,9,9,10,10
+2023-08-17 22:38:08,2023-08-17 22:38:46,IP Address,200.68.167.97,100,37,True,2023-08-17 22:38:46,R_1JIyVxxPzuEmRfP,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,10,9
+2023-08-17 22:38:50,2023-08-17 22:39:05,IP Address,200.68.167.97,100,14,True,2023-08-17 22:39:05,R_2E6Ojw1tUTkSx6A,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,9,10,10,9,9,10
+2023-08-17 22:39:12,2023-08-17 22:39:25,IP Address,200.68.167.97,100,13,True,2023-08-17 22:39:26,R_1Izbql9vn9Ia0xx,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,10,10,9,9,10
+2023-08-17 22:39:29,2023-08-17 22:39:45,IP Address,200.68.167.97,100,15,True,2023-08-17 22:39:46,R_Tcp31h88sT33Uqt,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,10,9,10
+2023-08-17 22:39:49,2023-08-17 22:40:04,Spam,200.68.167.97,100,14,True,2023-08-17 22:40:04,R_2eUxwQur5SPNhok,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:40:07,2023-08-17 22:40:21,Spam,200.68.167.97,100,13,True,2023-08-17 22:40:21,R_27VkqvMhYubj5Uy,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,9,9,9,10,10
+2023-08-17 22:40:30,2023-08-17 22:40:47,Spam,200.68.167.97,100,17,True,2023-08-17 22:40:47,R_0lBTDWb8oYMAlMJ,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-17 22:40:52,2023-08-17 22:41:06,IP Address,200.68.167.97,100,14,True,2023-08-17 22:41:07,R_1mQ8RVC3dSzvnQV,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,8,9
+2023-08-17 22:41:12,2023-08-17 22:41:38,IP Address,200.68.167.97,100,25,True,2023-08-17 22:41:38,R_8uhQquCdVFB15Dj,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,6,7,7,7,7,8,8
+2023-08-17 22:41:43,2023-08-17 22:41:56,IP Address,200.68.167.97,100,13,True,2023-08-17 22:41:56,R_2tora1a7w7EFiH4,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,8,9,8,8,9,9,
+2023-08-17 22:42:00,2023-08-17 22:42:13,IP Address,200.68.167.97,100,13,True,2023-08-17 22:42:13,R_2zr88uQususjt1x,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,8,9,9,9,10,10,10
+2023-08-17 22:42:17,2023-08-17 22:42:30,IP Address,200.68.167.97,100,13,True,2023-08-17 22:42:31,R_21ExtXRayQGXBlb,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,9,9,10,10,10
+2023-08-17 22:42:34,2023-08-17 22:42:49,IP Address,200.68.167.97,100,14,True,2023-08-17 22:42:49,R_3kvpUgRaLJfYjh4,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,6,7,7,8,7,7,8
+2023-08-17 22:42:53,2023-08-17 22:43:05,IP Address,200.68.167.97,100,12,True,2023-08-17 22:43:06,R_3HAh1P5eMKWPvte,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,8,9,8,8,7,7,8
+2023-08-17 22:43:09,2023-08-17 22:43:23,Spam,200.68.167.97,100,14,True,2023-08-17 22:43:23,R_1EaCUbpBYkJ5tQJ,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-17 22:43:27,2023-08-17 22:43:42,IP Address,200.68.167.97,100,14,True,2023-08-17 22:43:42,R_2E0juANN2SlNiDe,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,7,9,9,8,9,9,9
+2023-08-17 22:43:47,2023-08-17 22:44:02,IP Address,200.68.167.97,100,14,True,2023-08-17 22:44:02,R_ZmXySxe4yGpoViN,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,8,9,9,9,9,10
+2023-08-17 22:44:06,2023-08-17 22:44:39,IP Address,200.68.167.97,100,33,True,2023-08-17 22:44:40,R_2CKE7qZBrtzDzyS,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,9,9,9,9,9
+2023-08-17 22:44:48,2023-08-17 22:45:03,IP Address,200.68.167.97,100,14,True,2023-08-17 22:45:03,R_YQWYRDUO5eV5WQp,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,8,7,8,8,9,9
+2023-08-17 22:45:09,2023-08-17 22:45:22,IP Address,200.68.167.97,100,13,True,2023-08-17 22:45:22,R_1LTFkVRydbJGm13,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,8,9,8,8,9,9,9
+2023-08-17 22:45:28,2023-08-17 22:45:41,IP Address,200.68.167.97,100,13,True,2023-08-17 22:45:42,R_2TvO9Op3liyc9JP,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,10
+2023-08-17 22:45:46,2023-08-17 22:46:00,Spam,200.68.167.97,100,14,True,2023-08-17 22:46:01,R_Rb5XBjHlWcP1qa5,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,6,7,7,7,7,8,8
+2023-08-17 22:46:08,2023-08-17 22:46:22,Spam,200.68.167.97,100,13,True,2023-08-17 22:46:22,R_3hchVXSXt3n0POo,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:46:28,2023-08-17 22:46:47,IP Address,200.68.167.97,100,18,True,2023-08-17 22:46:47,R_2AMOzRUg3iJ9h1c,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,,10,10,10
+2023-08-17 22:46:51,2023-08-17 22:47:04,Spam,200.68.167.97,100,13,True,2023-08-17 22:47:05,R_2aV8H4qi4vjo06D,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:47:09,2023-08-17 22:47:24,Spam,200.68.167.97,100,14,True,2023-08-17 22:47:24,R_3iz2DBroQyKRMPh,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-17 22:47:27,2023-08-17 22:47:44,IP Address,200.68.167.97,100,16,True,2023-08-17 22:47:45,R_2cbE8ufLLxtAEOz,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,6,7,8,8,9,7,9
+2023-08-17 22:47:51,2023-08-17 22:48:10,IP Address,200.68.167.97,100,19,True,2023-08-17 22:48:11,R_2zuc7EbzI8VEoOg,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,9,9,8,8,8
+2023-08-17 22:48:14,2023-08-17 22:48:41,IP Address,200.68.167.97,100,26,True,2023-08-17 22:48:41,R_8xpe7tfbOgXpYDT,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,7,8,9,8,10,9,9
+2023-08-17 22:48:47,2023-08-17 22:49:03,IP Address,200.68.167.97,100,15,True,2023-08-17 22:49:03,R_3n2a5DK52jqSYO2,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,8,9,9,9,9
+2023-08-17 22:49:11,2023-08-17 22:49:30,IP Address,181.136.248.139,100,19,True,2023-08-17 22:49:31,R_sHhiw0xXtc9HG9P,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,10,10,10,10
+2023-08-17 22:49:32,2023-08-17 22:49:49,IP Address,181.136.248.139,100,16,True,2023-08-17 22:49:49,R_1GuVirTVpqfSmU7,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,10,9,8,8,9
+2023-08-17 22:49:50,2023-08-17 22:50:05,IP Address,181.136.248.139,100,15,True,2023-08-17 22:50:06,R_2a9SHioKyjj3824,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:50:39,2023-08-17 22:51:10,IP Address,181.136.248.139,100,31,True,2023-08-17 22:51:11,R_3QJpcEH5MCIAOgz,,,,,7.1224,-73.1222,anonymous,ES,,10,10,10,10,10,10,10
+2023-08-17 22:51:14,2023-08-17 22:55:10,IP Address,181.136.248.139,100,236,True,2023-08-17 22:55:10,R_30tWLch8eMMFtR4,,,,,7.1224,-73.1222,anonymous,ES,,10,,10,,,10,8
+2023-08-17 22:55:38,2023-08-17 22:56:09,IP Address,181.136.248.139,100,31,True,2023-08-17 22:56:09,R_1JRCVxpOCMR8AS7,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,8,,,10,10,10
+2023-08-17 22:56:12,2023-08-17 22:56:42,Spam,181.136.248.139,100,30,True,2023-08-17 22:56:43,R_3g0EeW7oK8dxmtO,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:56:47,2023-08-17 22:57:15,Spam,181.136.248.139,100,27,True,2023-08-17 22:57:15,R_3oGAAQmQogGiNxn,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:57:16,2023-08-17 22:57:30,Spam,181.136.248.139,100,14,True,2023-08-17 22:57:31,R_25Y3gAnBrtmulMe,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:57:32,2023-08-17 22:57:44,Spam,181.136.248.139,100,11,True,2023-08-17 22:57:44,R_dbCdk9wYQdqYtNf,,,,,7.1224,-73.1222,anonymous,ES,,10,10,10,10,10,10,10
+2023-08-17 22:57:45,2023-08-17 22:57:57,Spam,181.136.248.139,100,11,True,2023-08-17 22:57:57,R_12fdK4QmiwfIPsj,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 22:58:15,2023-08-17 22:58:45,IP Address,181.136.248.139,100,29,True,2023-08-17 22:58:45,R_1F8jztn8X4HClsl,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,8,9,8,5,7
+2023-08-17 22:58:47,2023-08-17 22:59:10,IP Address,181.136.248.139,100,22,True,2023-08-17 22:59:10,R_43dDJhdnfQkPMyt,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,6,9,7,8,9,8
+2023-08-17 22:59:11,2023-08-17 23:00:11,IP Address,181.136.248.139,100,59,True,2023-08-17 23:00:12,R_1TCQqF3xUJNMrrr,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,8,9,9,8
+2023-08-17 23:00:19,2023-08-17 23:00:46,IP Address,181.136.248.139,100,26,True,2023-08-17 23:00:47,R_3knTrshRTy00JLK,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,8,4,8,4
+2023-08-17 23:00:49,2023-08-17 23:01:06,IP Address,181.136.248.139,100,16,True,2023-08-17 23:01:06,R_aYvUYBKMfkSzpHH,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,3,5,10,9,7,8,9
+2023-08-17 23:01:08,2023-08-17 23:01:24,IP Address,181.136.248.139,100,15,True,2023-08-17 23:01:24,R_33yvoHRfBK2Uqun,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,5,10,10,10,10,10
+2023-08-17 23:01:26,2023-08-17 23:01:42,IP Address,181.136.248.139,100,16,True,2023-08-17 23:01:42,R_0V68nAjdfK3IyI1,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,10,8,7
+2023-08-17 23:01:44,2023-08-17 23:02:00,IP Address,181.136.248.139,100,16,True,2023-08-17 23:02:01,R_24C1kihyxiLTUca,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,8,7,6,5,4
+2023-08-17 23:02:02,2023-08-17 23:02:18,IP Address,181.136.248.139,100,16,True,2023-08-17 23:02:18,R_C1uW6VmlNGzH9Bf,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,8,9,7,10,9,9
+2023-08-17 23:02:19,2023-08-17 23:02:33,IP Address,181.136.248.139,100,13,True,2023-08-17 23:02:34,R_3Gg0a2LZa3F2KpA,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,8,10,10,10,10,10
+2023-08-17 23:02:36,2023-08-17 23:02:52,IP Address,181.136.248.139,100,15,True,2023-08-17 23:02:52,R_p5j5ExWbALuIKDT,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,9,10,9,9,8
+2023-08-17 23:02:54,2023-08-17 23:03:09,IP Address,181.136.248.139,100,15,True,2023-08-17 23:03:09,R_3iHVakBWtVJhxSq,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,9,9,9
+2023-08-17 23:03:10,2023-08-17 23:03:22,IP Address,181.136.248.139,100,11,True,2023-08-17 23:03:23,R_3CBn1VXIihrc9do,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,10,9,8
+2023-08-17 23:03:24,2023-08-17 23:03:36,Spam,181.136.248.139,100,12,True,2023-08-17 23:03:36,R_1MsM5LFJmgHy6jL,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 23:03:38,2023-08-17 23:03:53,IP Address,181.136.248.139,100,15,True,2023-08-17 23:03:54,R_6rLx1SmIng4qU1P,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,9,9,9,10,10,10
+2023-08-17 23:03:27,2023-08-17 23:04:01,IP Address,189.193.85.124,100,34,True,2023-08-17 23:04:02,R_2t2ll71MgVL7e2R,,,,,20.6125,-100.462,anonymous,ES,,2,2,2,3,4,4,3
+2023-08-17 23:03:55,2023-08-17 23:04:08,IP Address,181.136.248.139,100,13,True,2023-08-17 23:04:09,R_2bP4XIiY6b5JRBf,,,,,7.1224,-73.1222,anonymous,ES,,9,9,10,10,8,9,8
+2023-08-17 23:04:10,2023-08-17 23:04:23,IP Address,181.136.248.139,100,13,True,2023-08-17 23:04:24,R_2DUE2q8jsFeAGBa,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,9,9,9,6,9
+2023-08-17 23:04:25,2023-08-17 23:04:39,Spam,181.136.248.139,100,14,True,2023-08-17 23:04:40,R_1Nneal55wjSDD5O,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 23:04:41,2023-08-17 23:04:53,IP Address,181.136.248.139,100,12,True,2023-08-17 23:04:54,R_3kcXbcMMNvKXWxD,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,,9,9,7,10
+2023-08-17 23:04:55,2023-08-17 23:05:11,IP Address,181.136.248.139,100,16,True,2023-08-17 23:05:11,R_1Kg1JQ9vNl2jMBU,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,,9,10,10,10,10
+2023-08-17 23:05:13,2023-08-17 23:05:27,IP Address,181.136.248.139,100,14,True,2023-08-17 23:05:28,R_3fs1ph4iXzWSFro,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,8,7,7,7,7
+2023-08-17 23:05:29,2023-08-17 23:05:48,IP Address,181.136.248.139,100,19,True,2023-08-17 23:05:49,R_3nw9WtB155cbqtA,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,8,8,10,10,8,10
+2023-08-17 23:05:50,2023-08-17 23:06:04,IP Address,181.136.248.139,100,13,True,2023-08-17 23:06:04,R_1kFDtq7IchyhHdY,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,10,9,8,10
+2023-08-17 23:06:06,2023-08-17 23:06:19,IP Address,181.136.248.139,100,13,True,2023-08-17 23:06:20,R_38lqnpTYX3Wq0OR,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,10,8,10,10,9
+2023-08-17 23:06:21,2023-08-17 23:06:43,IP Address,181.136.248.139,100,21,True,2023-08-17 23:06:43,R_3nO6b3H3tjUL0Qa,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,10,10,9,10,8
+2023-08-17 23:06:45,2023-08-17 23:06:57,IP Address,181.136.248.139,100,11,True,2023-08-17 23:06:57,R_9sCJga4FcTiZp5f,,,,,7.1224,-73.1222,anonymous,ES,,10,10,10,9,10,9,10
+2023-08-17 23:06:59,2023-08-17 23:07:09,IP Address,181.136.248.139,100,10,True,2023-08-17 23:07:10,R_1GH9uJIEGWd956B,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,10,8,9,9,8
+2023-08-17 23:06:55,2023-08-17 23:07:10,IP Address,200.68.167.97,100,14,True,2023-08-17 23:07:10,R_ZJYdkEIVVWfXrqN,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,10,10,9,9,9
+2023-08-17 23:07:11,2023-08-17 23:07:21,IP Address,181.136.248.139,100,10,True,2023-08-17 23:07:22,R_aVuD1CQZUjSWtGN,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,8,9,9,9,8,10
+2023-08-17 23:07:14,2023-08-17 23:07:26,IP Address,200.68.167.97,100,12,True,2023-08-17 23:07:27,R_3lSJTbdjgJK2aiN,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,10,10,10
+2023-08-17 23:07:23,2023-08-17 23:07:36,IP Address,181.136.248.139,100,12,True,2023-08-17 23:07:36,R_3CJyM0riRDUg2Gz,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,10,10,10,10,10
+2023-08-17 23:07:31,2023-08-17 23:07:47,Spam,200.68.167.97,100,16,True,2023-08-17 23:07:47,R_2QLivImIhKs9KQk,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,10,10,10
+2023-08-17 23:07:37,2023-08-17 23:07:50,IP Address,181.136.248.139,100,13,True,2023-08-17 23:07:50,R_1oF28Bbe4g5Vj8R,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,10,9,8,9,9
+2023-08-17 23:07:51,2023-08-17 23:08:04,Spam,200.68.167.97,100,12,True,2023-08-17 23:08:04,R_3Hp64pbrHD0aBLR,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,10,10,10
+2023-08-17 23:07:52,2023-08-17 23:08:06,IP Address,181.136.248.139,100,13,True,2023-08-17 23:08:06,R_3s5hu4S04w3jJmM,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,10,10,10,10
+2023-08-17 23:08:07,2023-08-17 23:08:20,IP Address,181.136.248.139,100,12,True,2023-08-17 23:08:20,R_3Q0rZpwaluDsO0G,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,9,10,10,10
+2023-08-17 23:08:08,2023-08-17 23:08:25,Spam,200.68.167.97,100,16,True,2023-08-17 23:08:25,R_31MozUmU4WgDfWW,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-17 23:08:21,2023-08-17 23:08:36,IP Address,181.136.248.139,100,14,True,2023-08-17 23:08:36,R_2aqprKrs5f0WyXj,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,10,10,10,10,10
+2023-08-17 23:08:33,2023-08-17 23:08:53,IP Address,200.68.167.97,100,19,True,2023-08-17 23:08:53,R_21ADWfhuF3TYKBC,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,9,10,9,9,9,9
+2023-08-17 23:08:37,2023-08-17 23:08:54,IP Address,181.136.248.139,100,16,True,2023-08-17 23:08:54,R_30xiku86sXEqNQ3,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,7,3,10,9,9,10
+2023-08-17 23:08:57,2023-08-17 23:09:09,IP Address,200.68.167.97,100,12,True,2023-08-17 23:09:09,R_3phj8aSzLwGPShT,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,10,10,9,9,9,9,10
+2023-08-17 23:08:55,2023-08-17 23:09:13,IP Address,181.136.248.139,100,17,True,2023-08-17 23:09:13,R_2TBMWQw75AImHYP,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,9,9,9,9
+2023-08-17 23:09:15,2023-08-17 23:09:28,Spam,181.136.248.139,100,13,True,2023-08-17 23:09:29,R_3PY5CiEgtZZrp9G,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-17 23:09:16,2023-08-17 23:09:30,IP Address,200.68.167.97,100,13,True,2023-08-17 23:09:30,R_12PuNg1KOd55uBN,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,8,9,9,8,9
+2023-08-17 23:09:34,2023-08-17 23:10:43,Spam,200.68.167.97,100,69,True,2023-08-17 23:10:44,R_2tnbNFJojrlk0ZQ,,,,,20.6381,-103.348,anonymous,ES,¡De acuerdo!,9,10,9,9,9,9,9
+2023-08-17 23:36:45,2023-08-17 23:37:50,IP Address,189.244.65.22,100,65,True,2023-08-17 23:37:51,R_YcdqocjRVDzQ3ct,,,,,25.5961,-103.3756,anonymous,ES,¡De acuerdo!,9,10,3,7,7,10,10
+2023-08-17 23:45:03,2023-08-18 00:07:50,IP Address,189.217.197.210,100,1366,True,2023-08-18 00:07:50,R_2SjktM7FlnjEZyP,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,9,8,10,9,9,9,10
+2023-08-18 00:07:55,2023-08-18 00:08:26,IP Address,189.217.197.210,100,30,True,2023-08-18 00:08:26,R_SMKx6kBwi1wAPHb,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 00:08:29,2023-08-18 00:09:05,IP Address,189.217.197.210,100,35,True,2023-08-18 00:09:05,R_UaJx2N8qY2bGEQF,,,,,19.3886,-98.8101,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-18 06:57:33,2023-08-18 06:58:39,IP Address,189.203.97.5,100,65,True,2023-08-18 06:58:39,R_3sudc2wnCZDA2IK,,,,,20.6762,-103.3469,anonymous,ES,¡De acuerdo!,10,9,10,10,10,10,10
+2023-08-18 08:13:14,2023-08-18 08:13:30,IP Address,191.95.45.138,100,16,True,2023-08-18 08:13:31,R_yCmP3kzHsCxfh3H,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,9,10,10,9,10,8
+2023-08-18 08:13:33,2023-08-18 08:13:47,IP Address,191.95.45.138,100,13,True,2023-08-18 08:13:47,R_2Egb9E4gllPwVGy,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,8,9,9,9,9,9,9
+2023-08-18 08:13:49,2023-08-18 08:14:04,IP Address,191.95.45.138,100,14,True,2023-08-18 08:14:04,R_116BGM5QVXWhu8d,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,9,9,7,10,9,9
+2023-08-18 08:14:06,2023-08-18 08:14:32,IP Address,191.95.45.138,100,26,True,2023-08-18 08:14:32,R_2rw3cJLdqNLzeBb,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,8,,10,9,9,10
+2023-08-18 08:14:35,2023-08-18 08:14:59,IP Address,191.95.45.138,100,24,True,2023-08-18 08:15:00,R_1opzDRo9ITSsubP,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,7,9,9,10,7,9
+2023-08-18 08:15:03,2023-08-18 08:15:22,IP Address,191.95.45.138,100,18,True,2023-08-18 08:15:22,R_3HY6jWZs0kVcKj0,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,8,10,10,10,9,10
+2023-08-18 08:15:25,2023-08-18 08:16:03,IP Address,191.95.45.138,100,37,True,2023-08-18 08:16:03,R_3r2QVceGkDj8y8U,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,8,9,7,10,10,8,9
+2023-08-18 08:16:25,2023-08-18 08:16:43,IP Address,191.95.45.138,100,18,True,2023-08-18 08:16:43,R_afJv4AT5alK1Fjb,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,9,10,7,9,8,9,10
+2023-08-18 08:16:46,2023-08-18 08:17:14,IP Address,191.95.45.138,100,28,True,2023-08-18 08:17:15,R_2flDqgzkJNBL7sd,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,8,10,9,8,8,9
+2023-08-18 08:17:17,2023-08-18 08:17:37,IP Address,191.95.45.138,100,20,True,2023-08-18 08:17:38,R_3k0YahxcTagkEZL,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,10,9,8,8,10,9,8
+2023-08-18 08:17:47,2023-08-18 08:18:01,IP Address,191.95.45.138,100,14,True,2023-08-18 08:18:02,R_eMe5cjyzMTwQ3Tz,,,,,6.2529,-75.5646,anonymous,ES,,10,10,,10,9,8,9
+2023-08-18 08:18:06,2023-08-18 08:18:26,IP Address,191.95.45.138,100,20,True,2023-08-18 08:18:26,R_3hzp8ryfDLd8SCT,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,7,8,9,10,10,9,9
+2023-08-18 08:18:30,2023-08-18 08:18:43,IP Address,191.95.45.138,100,13,True,2023-08-18 08:18:44,R_2XafdKENzserWKl,,,,,6.2529,-75.5646,anonymous,ES,¡De acuerdo!,8,10,7,10,10,8,10
+2023-08-18 09:12:25,2023-08-18 09:12:52,IP Address,200.68.140.75,100,26,True,2023-08-18 09:12:53,R_sBDwNujOF5Vqmw9,,,,,19.4326,-99.1332,anonymous,ES,,10,10,10,10,10,10,10
+2023-08-18 09:23:19,2023-08-18 09:24:48,IP Address,138.122.98.187,100,88,True,2023-08-18 09:24:49,R_1pRV4dGh9zDyhvx,,,,,20.9089,-100.7431,anonymous,ES,,7,7,6,8,8,8,8
+2023-08-18 12:37:33,2023-08-18 12:39:17,IP Address,174.26.227.73,100,103,True,2023-08-18 12:39:17,R_1GP2QL4hlndmJmr,,,,,33.4475,-112.0866,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:00:53,2023-08-18 16:01:54,IP Address,181.136.248.139,100,61,True,2023-08-18 16:01:55,R_tDSSTszue5zrcS5,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:01:57,2023-08-18 16:02:37,IP Address,181.136.248.139,100,39,True,2023-08-18 16:02:37,R_2OOVMjbqf6OHMs4,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,6,10,9,8,10
+2023-08-18 16:02:01,2023-08-18 16:03:10,IP Address,181.136.248.139,100,69,True,2023-08-18 16:03:11,R_2ipE4pHCPJ8WgPn,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,9,7,8,9,10
+2023-08-18 16:03:14,2023-08-18 16:03:34,IP Address,181.136.248.139,100,19,True,2023-08-18 16:03:34,R_2qdB0TGzaLeORdZ,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,,10,10
+2023-08-18 16:03:36,2023-08-18 16:04:19,IP Address,181.136.248.139,100,43,True,2023-08-18 16:04:19,R_1l4TFjRX9HKQg3S,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,8,10,9,10
+2023-08-18 16:05:18,2023-08-18 16:05:57,IP Address,181.136.248.139,100,39,True,2023-08-18 16:05:58,R_1oqfJ5L0tzXtQF7,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,9
+2023-08-18 16:06:04,2023-08-18 16:06:16,IP Address,181.136.248.139,100,11,True,2023-08-18 16:06:16,R_1GEcSXUZYy5mwVK,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,8,9
+2023-08-18 16:06:18,2023-08-18 16:06:33,IP Address,181.136.248.139,100,15,True,2023-08-18 16:06:34,R_pauRdgnbX2ymcZr,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,8,9,8,8,10,9
+2023-08-18 16:06:36,2023-08-18 16:06:50,IP Address,181.136.248.139,100,14,True,2023-08-18 16:06:51,R_114r0BUMP26a1ju,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,10,8,9,7,10
+2023-08-18 16:06:53,2023-08-18 16:07:07,IP Address,181.136.248.139,100,14,True,2023-08-18 16:07:08,R_3enqkdEdzN8DUmj,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,9,8,7,8,9
+2023-08-18 16:07:10,2023-08-18 16:07:24,IP Address,181.136.248.139,100,13,True,2023-08-18 16:07:24,R_2PpPwJcogjPHguu,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,6,7,8,7,9
+2023-08-18 16:07:26,2023-08-18 16:07:38,IP Address,181.136.248.139,100,11,True,2023-08-18 16:07:38,R_3oAxPZ51ICF6xmy,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,7,,9,7,9
+2023-08-18 16:07:40,2023-08-18 16:08:00,IP Address,181.136.248.139,100,19,True,2023-08-18 16:08:01,R_3CPHjIRZbWlwosu,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,6,9,10,8,9,8
+2023-08-18 16:08:02,2023-08-18 16:08:18,IP Address,181.136.248.139,100,16,True,2023-08-18 16:08:19,R_10uCDYGx2PPLCmV,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,10,9,8,9,10
+2023-08-18 16:08:20,2023-08-18 16:08:33,IP Address,181.136.248.139,100,13,True,2023-08-18 16:08:34,R_2fCMrq0szHxMWjA,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,8,9,10,9,8
+2023-08-18 16:08:35,2023-08-18 16:08:47,IP Address,181.136.248.139,100,11,True,2023-08-18 16:08:48,R_11WVO3GoUsy9NPg,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,9,10,9,8,9,10
+2023-08-18 16:08:50,2023-08-18 16:09:02,IP Address,181.136.248.139,100,11,True,2023-08-18 16:09:02,R_1dmjtCwTmQdX8Yr,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,8,6,,9,5
+2023-08-18 16:09:04,2023-08-18 16:09:16,IP Address,181.136.248.139,100,12,True,2023-08-18 16:09:17,R_31i6DhzNhkCJ11s,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,8,10,7,9,9
+2023-08-18 16:09:19,2023-08-18 16:09:31,IP Address,181.136.248.139,100,11,True,2023-08-18 16:09:31,R_3Gs8NxNar0Jbg9q,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,9,6,9,6,10,8
+2023-08-18 16:09:32,2023-08-18 16:09:55,IP Address,181.136.248.139,100,23,True,2023-08-18 16:09:56,R_2uvuQmeC1bPjXG6,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,8,10,9,9,10
+2023-08-18 16:09:58,2023-08-18 16:10:11,IP Address,181.136.248.139,100,12,True,2023-08-18 16:10:11,R_1FPbBL17RGOM6sq,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,7,8,7,8,9,10
+2023-08-18 16:10:13,2023-08-18 16:10:24,IP Address,181.136.248.139,100,11,True,2023-08-18 16:10:24,R_1FDHTUo0MUr8p4S,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,7,9,10,10,7,9
+2023-08-18 16:10:26,2023-08-18 16:10:40,IP Address,181.136.248.139,100,13,True,2023-08-18 16:10:40,R_R2Ha2DyfpSdnlp7,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,8,9,10,10,9,8
+2023-08-18 16:10:41,2023-08-18 16:10:53,IP Address,181.136.248.139,100,11,True,2023-08-18 16:10:53,R_2X5I1rHCO6Z9TZ7,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,8,9,8,10,10
+2023-08-18 16:10:55,2023-08-18 16:11:06,IP Address,181.136.248.139,100,11,True,2023-08-18 16:11:07,R_2zew1oe5gOr7xTx,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,9,10,10,9,8
+2023-08-18 16:11:08,2023-08-18 16:11:21,IP Address,181.136.248.139,100,13,True,2023-08-18 16:11:22,R_2z7oOjwxcnMOKJi,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,8,9,9,10,9,10
+2023-08-18 16:11:24,2023-08-18 16:11:39,IP Address,181.136.248.139,100,15,True,2023-08-18 16:11:40,R_1mXJtsiYEu28sfG,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,10,,9,9,7,10
+2023-08-18 16:11:42,2023-08-18 16:11:58,IP Address,181.136.248.139,100,15,True,2023-08-18 16:11:58,R_1lzP3LC23bQZBB2,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,10,10,9,8,10,9
+2023-08-18 16:12:01,2023-08-18 16:12:25,IP Address,181.136.248.139,100,24,True,2023-08-18 16:12:25,R_XoiiXueiFO7R6DL,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,9,8,9,8,10
+2023-08-18 16:12:27,2023-08-18 16:12:48,Spam,181.136.248.139,100,21,True,2023-08-18 16:12:49,R_30v1DBqmmbYO949,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,8,10,9,9,10
+2023-08-18 16:12:57,2023-08-18 16:13:12,Spam,181.136.248.139,100,15,True,2023-08-18 16:13:13,R_1rcPhBvL1roP66d,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,9,10,9,8,9,10
+2023-08-18 16:13:14,2023-08-18 16:16:16,IP Address,181.136.248.139,100,182,True,2023-08-18 16:16:17,R_248Dm9plKqGmyIp,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,10,9,10,9,10
+2023-08-18 16:16:18,2023-08-18 16:16:35,IP Address,181.136.248.139,100,16,True,2023-08-18 16:16:35,R_2sbgRBAkjZFfdmg,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,8,10,9,7,10
+2023-08-18 16:16:36,2023-08-18 16:16:51,IP Address,181.136.248.139,100,14,True,2023-08-18 16:16:51,R_1PZRxeHEtNMqHHE,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,8,7,10,9,8
+2023-08-18 16:16:53,2023-08-18 16:17:10,IP Address,181.136.248.139,100,16,True,2023-08-18 16:17:11,R_29ogHp1ygmg8ajv,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,10,7,10,8,9,10
+2023-08-18 16:17:12,2023-08-18 16:17:24,IP Address,181.136.248.139,100,11,True,2023-08-18 16:17:25,R_3oBkHBgMTjJduY0,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,4,9,10,10,10
+2023-08-18 16:17:46,2023-08-18 16:18:03,IP Address,181.136.248.139,100,17,True,2023-08-18 16:18:04,R_25ENJ83RmxeOv6r,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,7,10,8,9,10
+2023-08-18 16:18:05,2023-08-18 16:18:20,IP Address,181.136.248.139,100,15,True,2023-08-18 16:18:21,R_2QJTATZfLY4kMAp,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,8,6,8,6,9,9
+2023-08-18 16:18:22,2023-08-18 16:18:36,IP Address,181.136.248.139,100,13,True,2023-08-18 16:18:36,R_Y4hSL6NDbOgMwz7,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,7,8,10,9,10
+2023-08-18 16:18:37,2023-08-18 16:18:53,IP Address,181.136.248.139,100,15,True,2023-08-18 16:18:53,R_3OjiTYoByGoIHTI,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,9,8,10,7,8,10
+2023-08-18 16:18:55,2023-08-18 16:19:08,IP Address,181.136.248.139,100,13,True,2023-08-18 16:19:09,R_2tgx5rHDbXgJUA2,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,7,9,9,9,10
+2023-08-18 16:19:11,2023-08-18 16:19:24,IP Address,181.136.248.139,100,13,True,2023-08-18 16:19:24,R_3r3fHDMl5Eu7CKE,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,,7,10,10,8
+2023-08-18 16:19:26,2023-08-18 16:19:36,IP Address,181.136.248.139,100,10,True,2023-08-18 16:19:37,R_2qwpIaKwfZ3xUoa,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,8,9,8,7,4,9
+2023-08-18 16:19:38,2023-08-18 16:19:50,Spam,181.136.248.139,100,11,True,2023-08-18 16:19:50,R_1DDdWzxbuAyYYL0,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:19:52,2023-08-18 16:20:02,Spam,181.136.248.139,100,10,True,2023-08-18 16:20:02,R_2t2MLPYSbon5vux,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:20:03,2023-08-18 16:20:16,IP Address,181.136.248.139,100,12,True,2023-08-18 16:20:16,R_1DHDt4vjDZvPQgf,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,9,10,10
+2023-08-18 16:20:17,2023-08-18 16:20:29,IP Address,181.136.248.139,100,11,True,2023-08-18 16:20:29,R_4Gf9wAcnpa8eqPL,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,8,10,,9,10,10
+2023-08-18 16:20:30,2023-08-18 16:20:43,IP Address,181.136.248.139,100,12,True,2023-08-18 16:20:43,R_1Pd5kwq1bdXLehu,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,7,10,10,9,8
+2023-08-18 16:20:45,2023-08-18 16:21:04,IP Address,181.136.248.139,100,18,True,2023-08-18 16:21:04,R_d7imdIoLD8Ssmid,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,9,10,10,9,8,9
+2023-08-18 16:21:07,2023-08-18 16:21:19,IP Address,181.136.248.139,100,12,True,2023-08-18 16:21:20,R_2eXoaoBREAWSrFY,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,7,10,8,10,9,10
+2023-08-18 16:21:21,2023-08-18 16:21:38,IP Address,181.136.248.139,100,16,True,2023-08-18 16:21:38,R_1LMcEtapkRHMxZY,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,10,8,10
+2023-08-18 16:21:39,2023-08-18 16:21:55,IP Address,181.136.248.139,100,16,True,2023-08-18 16:21:56,R_AuMzcjVBGu3SGgV,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,9,9,8,7,9
+2023-08-18 16:21:57,2023-08-18 16:22:09,IP Address,181.136.248.139,100,11,True,2023-08-18 16:22:09,R_3sp4I5JfZwvCMVt,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,7,9,7,8,9
+2023-08-18 16:22:11,2023-08-18 16:22:24,Spam,181.136.248.139,100,13,True,2023-08-18 16:22:25,R_1Ivl92YXHOZrrIn,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:22:26,2023-08-18 16:22:38,IP Address,181.136.248.139,100,12,True,2023-08-18 16:22:39,R_tYiy89r6JZsS62Z,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,10,8,9,10
+2023-08-18 16:22:40,2023-08-18 16:22:55,IP Address,181.136.248.139,100,14,True,2023-08-18 16:22:55,R_STz0sBhwJOYtKF3,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,10,9,10,9
+2023-08-18 16:22:57,2023-08-18 16:23:18,IP Address,181.136.248.139,100,21,True,2023-08-18 16:23:19,R_2zvzlfd3LXiFLT2,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,9,9,8,9,10
+2023-08-18 16:23:20,2023-08-18 16:23:31,IP Address,181.136.248.139,100,11,True,2023-08-18 16:23:32,R_1hZ0rqyG7BiS2uS,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,9,9,10,8,9,10
+2023-08-18 16:23:34,2023-08-18 16:23:45,IP Address,181.136.248.139,100,10,True,2023-08-18 16:23:45,R_11YGrrIZ3fYO17v,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,10,10,10
+2023-08-18 16:23:47,2023-08-18 16:24:00,IP Address,181.136.248.139,100,13,True,2023-08-18 16:24:00,R_1IiWG7pfZtS7ygE,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,8,9,7,10
+2023-08-18 16:24:02,2023-08-18 16:24:17,IP Address,181.136.248.139,100,15,True,2023-08-18 16:24:18,R_2SJ2FVDXPh2Dblz,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,8,5,9,6
+2023-08-18 16:24:20,2023-08-18 16:24:34,IP Address,181.136.248.139,100,14,True,2023-08-18 16:24:34,R_2SAoo0R9S60YyTa,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,7,6,7,8
+2023-08-18 16:24:36,2023-08-18 16:24:47,Spam,181.136.248.139,100,11,True,2023-08-18 16:24:48,R_1OxadcraWIxznGL,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:24:50,2023-08-18 16:25:07,Spam,181.136.248.139,100,17,True,2023-08-18 16:25:08,R_0pnSJWm6BaGppdv,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:25:09,2023-08-18 16:25:22,Spam,181.136.248.139,100,12,True,2023-08-18 16:25:22,R_1qfEoTJ1SBLLDTH,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:25:23,2023-08-18 16:25:41,IP Address,181.136.248.139,100,17,True,2023-08-18 16:25:41,R_3frfPbeZXzmJvDi,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,8,9,10,9,10
+2023-08-18 16:25:42,2023-08-18 16:25:56,IP Address,181.136.248.139,100,14,True,2023-08-18 16:25:57,R_115wmfQo7tcjSv5,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,8,9,8,9,10
+2023-08-18 16:25:59,2023-08-18 16:26:13,IP Address,181.136.248.139,100,13,True,2023-08-18 16:26:13,R_2eb99dCceymmrkE,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,10,9,9,8,10
+2023-08-18 16:26:15,2023-08-18 16:26:29,Spam,181.136.248.139,100,14,True,2023-08-18 16:26:30,R_25ZOXGo3cOxVlzD,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:26:32,2023-08-18 16:26:48,Spam,181.136.248.139,100,16,True,2023-08-18 16:26:48,R_3J2Xq3722ZYJ0si,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:26:50,2023-08-18 16:27:13,IP Address,181.136.248.139,100,22,True,2023-08-18 16:27:13,R_Yb3YrcfEVX7xQ5P,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,8,9,9,10
+2023-08-18 16:27:15,2023-08-18 16:27:27,Spam,181.136.248.139,100,12,True,2023-08-18 16:27:28,R_1i9k8Tn70QfuL4k,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,9,10,9,8,9,10
+2023-08-18 16:27:29,2023-08-18 16:27:39,Spam,181.136.248.139,100,9,True,2023-08-18 16:27:39,R_2rj9CvVVCfmcl5u,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,9,10,10
+2023-08-18 16:27:41,2023-08-18 16:27:52,Spam,181.136.248.139,100,10,True,2023-08-18 16:27:52,R_12DNVRWmA6EMhJA,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,10,10,10
+2023-08-18 16:27:54,2023-08-18 16:28:11,IP Address,181.136.248.139,100,17,True,2023-08-18 16:28:11,R_23abGx5w4ELZ7mu,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,7,8,9,10,10,10,10
+2023-08-18 16:28:13,2023-08-18 16:28:26,IP Address,181.136.248.139,100,12,True,2023-08-18 16:28:26,R_2WShr4V9zApYAaX,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,10,9,10,9,8
+2023-08-18 16:28:27,2023-08-18 16:28:42,Spam,181.136.248.139,100,14,True,2023-08-18 16:28:43,R_2PuQrxcqQ6FQFNC,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,9,9,8,9,10
+2023-08-18 16:28:44,2023-08-18 16:28:54,IP Address,181.136.248.139,100,9,True,2023-08-18 16:28:54,R_2TuXRypEbU7zCue,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,8,9,8,10,10,10,10
+2023-08-18 16:28:57,2023-08-18 16:29:09,Spam,181.136.248.139,100,12,True,2023-08-18 16:29:09,R_3qwA0jKMDW6C3LK,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:29:12,2023-08-18 16:29:26,Spam,181.136.248.139,100,14,True,2023-08-18 16:29:27,R_u9tloITQGjLX6lr,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,9
+2023-08-18 16:29:28,2023-08-18 16:29:42,IP Address,181.136.248.139,100,13,True,2023-08-18 16:29:42,R_1g7s9JQPbF4nzwT,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,10,8,9,8
+2023-08-18 16:29:43,2023-08-18 16:29:53,IP Address,181.136.248.139,100,10,True,2023-08-18 16:29:54,R_1ginnZfESMpjpP5,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,10,10,10,10
+2023-08-18 16:29:55,2023-08-18 16:30:05,Spam,181.136.248.139,100,9,True,2023-08-18 16:30:06,R_bQsAK6rpQqBY2fD,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:30:07,2023-08-18 16:30:18,Spam,181.136.248.139,100,10,True,2023-08-18 16:30:18,R_3JegDCJQYLwlLOc,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:30:19,2023-08-18 16:30:30,Spam,181.136.248.139,100,10,True,2023-08-18 16:30:30,R_1JIvw6T7WO5fQgc,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:30:31,2023-08-18 16:30:41,Spam,181.136.248.139,100,9,True,2023-08-18 16:30:42,R_31uUj7tucijGoYL,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:30:43,2023-08-18 16:30:56,IP Address,181.136.248.139,100,13,True,2023-08-18 16:30:57,R_1mPjfTne7Q7qp3B,,,,,7.1224,-73.1222,anonymous,ES,,10,10,10,10,10,10,10
+2023-08-18 16:30:58,2023-08-18 16:31:13,Spam,181.136.248.139,100,14,True,2023-08-18 16:31:14,R_11c0Wj6Jv9PY121,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 16:31:15,2023-08-18 16:31:27,IP Address,181.136.248.139,100,11,True,2023-08-18 16:31:27,R_1KcDf4pXc2Jc2xH,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,9,9,9,9
+2023-08-18 16:31:29,2023-08-18 16:31:42,IP Address,181.136.248.139,100,12,True,2023-08-18 16:31:42,R_2dT4zMVmX5UhpvR,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,10,9,10
+2023-08-18 16:31:44,2023-08-18 16:31:58,IP Address,181.136.248.139,100,14,True,2023-08-18 16:31:58,R_yOpTSgqgjjal2Sd,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,9,10,8,10,9,9
+2023-08-18 16:32:00,2023-08-18 16:32:10,IP Address,181.136.248.139,100,9,True,2023-08-18 16:32:11,R_TpyYS8mQeKP0ucN,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,10,10,10,10,10
+2023-08-18 16:32:11,2023-08-18 16:32:22,IP Address,181.136.248.139,100,10,True,2023-08-18 16:32:22,R_3lERBkzBZjYD8Rr,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,9,10,9,9,10
+2023-08-18 16:32:23,2023-08-18 16:32:34,IP Address,181.136.248.139,100,11,True,2023-08-18 16:32:35,R_33CmLxCTzV0S3ey,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,8,9,8,10,9,10
+2023-08-18 16:32:36,2023-08-18 16:32:48,Spam,181.136.248.139,100,12,True,2023-08-18 16:32:49,R_31N5jtwErkp8hdw,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,9,10,9,10,9,10
+2023-08-18 16:32:50,2023-08-18 16:33:03,IP Address,181.136.248.139,100,12,True,2023-08-18 16:33:03,R_22Qh3a2SlMXVxK8,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,9,9,10,10,10
+2023-08-18 16:33:04,2023-08-18 16:33:14,IP Address,181.136.248.139,100,9,True,2023-08-18 16:33:14,R_3qQzMHLwI0SABN5,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,9,10,9,10,8,10,
+2023-08-18 16:33:16,2023-08-18 16:33:27,Spam,181.136.248.139,100,10,True,2023-08-18 16:33:28,R_vAeow8FPIrUNpJv,,,,,7.1224,-73.1222,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 18:03:56,2023-08-18 18:04:56,IP Address,201.172.175.24,100,60,True,2023-08-18 18:04:57,R_2dMk8n74yE4zVnd,,,,,25.6546,-100.2967,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 18:05:16,2023-08-18 18:05:43,Spam,201.172.175.24,100,27,True,2023-08-18 18:05:44,R_26mZYLimirhaZq3,,,,,25.6546,-100.2967,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 18:27:24,2023-08-18 18:28:44,IP Address,187.161.134.73,100,79,True,2023-08-18 18:28:44,R_3m2mUW9ZXD7rczl,,,,,25.6554,-100.3258,anonymous,ES,¡De acuerdo!,8,10,8,7,10,10,7
+2023-08-18 18:34:44,2023-08-18 18:35:01,IP Address,200.68.139.4,100,17,True,2023-08-18 18:35:02,R_3KDtCZolqHnIGxM,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-18 18:35:08,2023-08-18 18:35:22,IP Address,200.68.139.4,100,14,True,2023-08-18 18:35:23,R_20ViBo7YahO3DZe,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,8,8,9
+2023-08-18 18:36:33,2023-08-18 18:36:48,IP Address,200.68.139.4,100,14,True,2023-08-18 18:36:49,R_1eFaQZmxVHeRots,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,6,7,8,8,8,8
+2023-08-18 18:36:53,2023-08-18 18:37:06,IP Address,200.68.139.4,100,12,True,2023-08-18 18:37:06,R_2vdbRkEuwAX6EbH,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,7,7,8,9,7,8,8
+2023-08-18 18:37:10,2023-08-18 18:37:22,IP Address,200.68.139.4,100,12,True,2023-08-18 18:37:22,R_3JrbqU6oaGNm6fr,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,9,9,10,9,9,9
+2023-08-18 18:37:25,2023-08-18 18:37:37,IP Address,200.68.139.4,100,12,True,2023-08-18 18:37:37,R_2TT48KLk07OdPMx,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,8,8,8,8
+2023-08-18 18:37:41,2023-08-18 18:37:54,IP Address,200.68.139.4,100,12,True,2023-08-18 18:37:54,R_3dFH2x6rpMRcwJt,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,8,8,8,9,8,8
+2023-08-18 18:37:58,2023-08-18 18:38:12,IP Address,200.68.139.4,100,14,True,2023-08-18 18:38:13,R_XIc3b2G5sbwrDnb,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,10,10,10,9,9,10
+2023-08-18 18:38:18,2023-08-18 18:38:32,IP Address,200.68.139.4,100,13,True,2023-08-18 18:38:33,R_2SICwpXQxrcZ3gZ,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,10,9,9,9,10,10
+2023-08-18 18:38:39,2023-08-18 18:38:54,IP Address,200.68.139.4,100,15,True,2023-08-18 18:38:54,R_2aKWUxpgVvy6pVs,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,10,10,9,10
+2023-08-18 18:39:00,2023-08-18 18:39:14,IP Address,200.68.139.4,100,14,True,2023-08-18 18:39:14,R_1DFNAuJxVbHE5Wq,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,8,9,8,9,9,9
+2023-08-18 18:39:18,2023-08-18 18:39:32,Spam,200.68.139.4,100,14,True,2023-08-18 18:39:33,R_BDHdqpb3LAqwgIV,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,10,9,9,9,10,10
+2023-08-18 18:39:36,2023-08-18 18:39:53,IP Address,200.68.139.4,100,16,True,2023-08-18 18:39:53,R_3ElMr8sd9rKT12P,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,7,9,8,9,9,9
+2023-08-18 18:39:58,2023-08-18 18:40:11,IP Address,200.68.139.4,100,12,True,2023-08-18 18:40:12,R_9nLkRo9I8C65Q9b,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,9,9,9,9,9
+2023-08-18 18:40:16,2023-08-18 18:40:30,IP Address,200.68.139.4,100,14,True,2023-08-18 18:40:30,R_SVPqOsxgCTFgyGt,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,8,9,9,9
+2023-08-18 18:40:40,2023-08-18 18:40:53,IP Address,200.68.139.4,100,13,True,2023-08-18 18:40:54,R_3FXSowtbr6GLqgG,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,8,9,9,9,9,9
+2023-08-18 18:40:57,2023-08-18 18:41:11,IP Address,200.68.139.4,100,14,True,2023-08-18 18:41:12,R_11005JReus4QIUh,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,9,9,9,9,9,9
+2023-08-18 18:41:16,2023-08-18 18:41:28,IP Address,200.68.139.4,100,12,True,2023-08-18 18:41:29,R_12z16b0eQAODsnA,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,8,9,9,9,9
+2023-08-18 18:41:33,2023-08-18 18:41:50,IP Address,200.68.139.4,100,17,True,2023-08-18 18:41:51,R_2DLIGjyLdUjeAMo,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,9,9,9,8,8,8
+2023-08-18 18:41:56,2023-08-18 18:42:12,IP Address,200.68.139.4,100,16,True,2023-08-18 18:42:13,R_2y1R2x9p9fE6TYQ,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,10,10,10,10,10,10
+2023-08-18 18:42:21,2023-08-18 18:42:36,IP Address,200.68.139.4,100,15,True,2023-08-18 18:42:37,R_3qPRc06tIio9vU2,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,10,9,9,9,9,9
+2023-08-18 18:45:41,2023-08-18 18:45:54,IP Address,200.68.139.4,100,12,True,2023-08-18 18:45:54,R_3RfkjOSFsubNXXC,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,8,8,8,9,9,8
+2023-08-18 18:46:32,2023-08-18 18:46:45,IP Address,200.68.139.4,100,12,True,2023-08-18 18:46:46,R_2TKTFPhE4H46RBZ,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,9,9,8,9,9,9
+2023-08-18 18:46:49,2023-08-18 18:47:03,IP Address,200.68.139.4,100,13,True,2023-08-18 18:47:03,R_2zdRDI93obRYriK,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,10,10
+2023-08-18 18:47:06,2023-08-18 18:49:50,IP Address,200.68.139.4,100,164,True,2023-08-18 18:49:51,R_10PDwTrtWBxNI0U,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,6,8,8,7,8,9
+2023-08-18 18:52:50,2023-08-18 18:53:05,IP Address,200.68.139.4,100,15,True,2023-08-18 18:53:06,R_ptO7yI3yU5o7vup,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,9,9,9,10,9
+2023-08-18 18:53:14,2023-08-18 18:57:23,IP Address,200.68.139.4,100,248,True,2023-08-18 18:57:23,R_1QniBIvQxa65WLR,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,10,10,10,10,10
+2023-08-18 18:57:27,2023-08-18 18:57:39,Spam,200.68.139.4,100,12,True,2023-08-18 18:57:40,R_1GuWAHqBGJ3lFiG,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-18 18:59:48,2023-08-18 19:00:03,IP Address,200.68.139.4,100,14,True,2023-08-18 19:00:04,R_3RmBXnhFx2u4Tth,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,9,9,9,9
+2023-08-18 19:00:07,2023-08-18 19:00:23,IP Address,200.68.139.4,100,15,True,2023-08-18 19:00:23,R_27UQrNTiCHSoWMc,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,8,8,9,9,9,9
+2023-08-18 19:00:27,2023-08-18 19:00:41,IP Address,200.68.139.4,100,14,True,2023-08-18 19:00:42,R_3P7bQHBdFnSseR7,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,7,9,9,,9,9,9
+2023-08-18 19:00:45,2023-08-18 19:00:58,Spam,200.68.139.4,100,12,True,2023-08-18 19:00:58,R_3QE6QVPStTf3F50,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-18 19:01:03,2023-08-18 19:01:23,Spam,200.68.139.4,100,19,True,2023-08-18 19:01:23,R_3oLMpHcIWCmXday,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,10,10
+2023-08-18 19:01:32,2023-08-18 19:01:45,IP Address,200.68.139.4,100,13,True,2023-08-18 19:01:45,R_21uGTJmiH2PO2Gx,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,10,9,9,9,9
+2023-08-18 19:01:52,2023-08-18 19:02:05,IP Address,200.68.139.4,100,13,True,2023-08-18 19:02:06,R_1Lzo2p9SwRxP22p,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,6,6,7,6,6,8
+2023-08-18 19:02:09,2023-08-18 19:02:27,IP Address,200.68.139.4,100,18,True,2023-08-18 19:02:28,R_1eKpydYfK1MS1Ot,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,5,5,6,6,7,8,8
+2023-08-18 19:02:32,2023-08-18 19:02:52,IP Address,200.68.139.4,100,19,True,2023-08-18 19:02:52,R_1JVNSGbty0POS0e,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,10,9,9,10,10,10
+2023-08-18 19:02:59,2023-08-18 19:03:12,IP Address,200.68.139.4,100,13,True,2023-08-18 19:03:12,R_30cm9Ahe5GoKoAI,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 19:03:16,2023-08-18 19:05:03,IP Address,200.68.139.4,100,107,True,2023-08-18 19:05:04,R_1kXgMpfaeL4aklZ,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,9,9,9,10,9,9
+2023-08-18 19:05:08,2023-08-18 19:05:20,IP Address,200.68.139.4,100,12,True,2023-08-18 19:05:20,R_1gTQPZj3xNo0EIS,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,9,10,10,10
+2023-08-18 19:05:29,2023-08-18 19:05:51,IP Address,200.68.139.4,100,21,True,2023-08-18 19:05:51,R_xrT7HiPciSgypH3,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,10,,9,9,9,9
+2023-08-18 19:05:59,2023-08-18 19:06:18,IP Address,200.68.139.4,100,19,True,2023-08-18 19:06:18,R_DSnQBQPolc46bPH,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,7,6,6,6,7,7,7
+2023-08-18 19:06:23,2023-08-18 19:06:37,IP Address,200.68.139.4,100,14,True,2023-08-18 19:06:38,R_1FXszVcyN179g89,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,7,7,8,9,8,8,8
+2023-08-18 19:06:41,2023-08-18 19:06:56,IP Address,200.68.139.4,100,14,True,2023-08-18 19:06:57,R_3gM0gCaoDdPYF2U,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,9
+2023-08-18 19:07:00,2023-08-18 19:07:12,Spam,200.68.139.4,100,11,True,2023-08-18 19:07:13,R_3iUYGVPD3Rq6VJv,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-18 19:07:16,2023-08-18 19:07:32,Spam,200.68.139.4,100,15,True,2023-08-18 19:07:33,R_6QotUtB1t8bcOrv,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-18 19:07:37,2023-08-18 19:07:55,IP Address,200.68.139.4,100,17,True,2023-08-18 19:07:55,R_1cTBHhOZV4pZkp6,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,9,10,9,10,10
+2023-08-18 19:07:59,2023-08-18 19:08:11,Spam,200.68.139.4,100,12,True,2023-08-18 19:08:12,R_pg79Wr9ifQiptip,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,9
+2023-08-18 19:08:17,2023-08-18 19:08:31,Spam,200.68.139.4,100,13,True,2023-08-18 19:08:32,R_122LD2X9xW0yKFt,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,9
+2023-08-18 19:08:35,2023-08-18 19:08:49,IP Address,200.68.139.4,100,13,True,2023-08-18 19:08:50,R_1DYc65GDzFc9AJl,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,9,10,10,9,10
+2023-08-18 19:08:57,2023-08-18 19:09:13,IP Address,200.68.139.4,100,16,True,2023-08-18 19:09:14,R_3ozKzmM9qILKBl5,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,9,9,10,10,10,10
+2023-08-18 19:09:17,2023-08-18 19:09:30,IP Address,200.68.139.4,100,13,True,2023-08-18 19:09:31,R_ZJH4TQPdObZYkzD,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,10,9,10,9
+2023-08-18 19:10:13,2023-08-18 19:10:27,IP Address,200.68.139.4,100,14,True,2023-08-18 19:10:27,R_331himYoiKJZuxS,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,8,9,8,9,9
+2023-08-18 19:10:31,2023-08-18 19:10:46,IP Address,200.68.139.4,100,14,True,2023-08-18 19:10:46,R_2OIKEXpbLQrSG7W,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,8,9,8,8,8,9
+2023-08-18 19:10:50,2023-08-18 19:11:08,IP Address,200.68.139.4,100,18,True,2023-08-18 19:11:09,R_Xvli32X0oqbB6O5,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,10
+2023-08-18 19:11:12,2023-08-18 19:12:23,Spam,200.68.139.4,100,70,True,2023-08-18 19:12:23,R_3pceeUKd9IGZ74e,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 19:12:30,2023-08-18 19:12:48,Spam,200.68.139.4,100,17,True,2023-08-18 19:12:48,R_2bVIaOkYp9TyKW8,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,9
+2023-08-18 19:12:54,2023-08-18 19:13:08,Spam,200.68.139.4,100,14,True,2023-08-18 19:13:09,R_2Yh0RzgsOsSv6Bg,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,9,9,9,9
+2023-08-18 19:13:13,2023-08-18 19:13:39,IP Address,200.68.139.4,100,26,True,2023-08-18 19:13:39,R_234E3R4a2b1dRLZ,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,5,9,9,8,9,9,9
+2023-08-18 19:13:43,2023-08-18 19:13:57,IP Address,200.68.139.4,100,14,True,2023-08-18 19:13:58,R_2RQxbuXw8UtkNv7,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,8,9,9,9,10,10,10
+2023-08-18 19:14:03,2023-08-18 19:14:18,IP Address,200.68.139.4,100,15,True,2023-08-18 19:14:18,R_1Ny3vGSqLXJSJYB,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,10,10,10,9
+2023-08-18 19:14:28,2023-08-18 19:14:41,Spam,200.68.139.4,100,13,True,2023-08-18 19:14:42,R_1QJXPbBodIN7sGg,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
+2023-08-18 19:14:48,2023-08-18 19:15:05,IP Address,200.68.139.4,100,17,True,2023-08-18 19:15:06,R_3Rr3hlDZvt9C4Mo,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,9,10,9,9,9,9
+2023-08-18 19:15:10,2023-08-18 19:15:28,IP Address,200.68.139.4,100,17,True,2023-08-18 19:15:28,R_XM5L4ozn1eAw4tH,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,7,9,9,9,9,9,9
+2023-08-18 19:15:32,2023-08-18 19:15:48,IP Address,200.68.139.4,100,15,True,2023-08-18 19:15:48,R_248XSOnJWiQsGbZ,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,6,10,9,9,9,10,9
+2023-08-18 19:15:53,2023-08-18 19:16:08,Spam,200.68.139.4,100,14,True,2023-08-18 19:16:09,R_25L3w6DJcPwTl6R,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,10,9,9,9,9,9
+2023-08-18 19:16:12,2023-08-18 19:16:32,IP Address,200.68.139.4,100,19,True,2023-08-18 19:16:32,R_21EwnvuX7zXpM2v,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,9,9,
+2023-08-18 19:16:41,2023-08-18 19:16:55,IP Address,200.68.139.4,100,14,True,2023-08-18 19:16:56,R_5bvt7shfXlMihSp,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,9,9,9,9,9,9
+2023-08-18 19:17:01,2023-08-18 19:17:25,IP Address,200.68.139.4,100,23,True,2023-08-18 19:17:26,R_vGK8P551MrAMvSh,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,10,10,10,10,9,9,9
+2023-08-18 19:17:35,2023-08-18 19:17:46,IP Address,200.68.139.4,100,11,True,2023-08-18 19:17:47,R_yOUsVlcFQsKZnWx,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,9,9,9,9,10,10,9
+2023-08-18 19:17:57,2023-08-18 19:18:12,IP Address,200.68.139.4,100,15,True,2023-08-18 19:18:13,R_9nMBLTo9GHugP2V,,,,,20.671,-103.3299,anonymous,ES,¡De acuerdo!,7,8,8,9,9,9,10
+2023-08-18 19:51:05,2023-08-18 19:51:37,IP Address,189.175.111.178,100,32,True,2023-08-18 19:51:38,R_3hgUKI4jcuAi4zw,,,,,25.6546,-100.2967,anonymous,ES,¡De acuerdo!,10,10,10,10,10,10,10
